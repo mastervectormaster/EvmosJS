@@ -1,3 +1,3 @@
 # EvmosJS
 Evmos Client with NodeJS
-This is for testing purpose of blockx network
+This is for testing purpose of EVMOS network
